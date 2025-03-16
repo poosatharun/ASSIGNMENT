@@ -4,6 +4,10 @@ This repository contains a **Streamlit web application** for **image classificat
 
 ---
 
+## Dataser 
+
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
 ## 📁 Repository Structure  
 
 ```
