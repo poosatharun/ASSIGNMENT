@@ -1,0 +1,52 @@
+# Image Classification Predictor
+
+This repository contains a Streamlit application for predicting image classifications using a pre-trained Keras model.
+
+## Repository Structure
+
+```
+app.py
+Final_CODEMONK.ipynb
+final_model.keras
+temp.jpg
+data
+
+
+## Requirements
+
+To install the required dependencies, run:
+
+```sh
+pip install -r requirements.txt
+```
+
+## Running the Application
+
+To run the Streamlit application, use the following command:
+
+```sh
+streamlit run app.py
+```
+
+## Usage
+
+1. Upload an image using the file uploader.
+2. Click the "Predict" button to get the predicted labels for the uploaded image.
+
+## Files
+
+- `app.py`: Main application file containing the Streamlit UI and prediction logic.
+- `Final_CODEMONK.ipynb`: Jupyter notebook with additional code and experiments.
+- `final_model.keras`: Pre-trained Keras model used for predictions.
+- `temp.jpg`: Temporary file to store the uploaded image.
+- `data/`: Directory containing sample images for testing.
+
+## Dependencies
+
+- streamlit
+- numpy
+- tensorflow
+
+## License
+
+This project is licensed under the MIT License.
