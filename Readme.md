@@ -1,6 +1,6 @@
 # 🖼️ Image Classification Predictor  
 
-This repository contains a **Streamlit web application** for **image classification** using a **pre-trained Keras model**. The app allows users to upload an image and get predicted labels based on attributes like **color, type, season, and gender**.
+This repository contains a **Streamlit web application** for **image classification** using a **Multi Label Classification Keras model**. The app allows users to upload an image and get predicted labels based on attributes like **color, type, season, and gender**.
 
 ---
 
