@@ -9,11 +9,11 @@ This repository contains a **Streamlit web application** for **image classificat
 ```
 ├── app.py                 # Streamlit app for image classification
 ├── Final_CODEMONK.ipynb   # Jupyter notebook with model training experiments
-├── final_model.keras      # Pre-trained Keras model for predictions
+├── final_model.keras      # training Keras model for predictions
 ├── temp.jpg               # Temporary file for uploaded images
 ├── data/                  # Directory containing sample images for testing
 ├── requirements.txt       # Dependencies for running the application
-└── README.md              # Project documentation
+└── README.md           
 ```
 
 ---
