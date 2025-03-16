@@ -22,14 +22,6 @@ This repository contains a **Streamlit web application** for **image classificat
 
 ![image](https://github.com/user-attachments/assets/d2984d62-5fb1-4438-95e3-8b48503119cb)
 
-## Training parameters
-
-Optimizer: Adam
-Loss Function: binary Crossentropy
-Batch Size: 32
-Epochs: 50
-Input Image Size: (128, 128, 3)
-Validation Split: 20
 
 
 ## 🔧 Installation  
